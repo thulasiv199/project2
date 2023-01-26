@@ -1,0 +1,4 @@
+git branch -b feature/abc
+git branch
+git status
+git branch -d feture/abc
