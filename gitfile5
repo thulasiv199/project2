@@ -1,4 +1,5 @@
 git branch -b feature/abc
 git branch
 git status
+git log
 git branch -d feture/abc
