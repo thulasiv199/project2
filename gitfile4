@@ -1,3 +1,5 @@
 git init
+git init
+git init
 git add is for adding into staging area
 git commit is for commit the changes to lr
